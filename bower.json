@@ -1,0 +1,23 @@
+{
+  "name": "XMPPConnectionDiscovery",
+  "authors": [
+    "sualko <klaus@jsxc.org>"
+  ],
+  "description": "Use RFC6120 and XEP-0156 to get XMPP connection methods",
+  "main": "index.php",
+  "keywords": [
+    "XMPP",
+    "BOSH",
+    "websocket",
+    "discovery"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
